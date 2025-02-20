@@ -1,1 +1,1 @@
-# trivy-enterprise-dummy
+# trivy-enterprise
